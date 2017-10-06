@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jd@email.com",
+      "age": 69
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane@email.com",
+      "age": 33
+    },
+    {
+      "id": "3",
+      "name": "Jim Doe",
+      "email": "jim@email.com",
+      "age": 36
+    },
+    {
+      "id": "5",
+      "name": "Sally Doe",
+      "email": "Sally@email.com",
+      "age": 16
+    },
+    {
+      "name": "joe blow",
+      "email": "joeblow@email.com",
+      "age": 34,
+      "id": "HJ-ACb-D-"
+    }
+  ]
+}
